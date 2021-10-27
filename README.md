@@ -1,6 +1,6 @@
 # Singleton CDI - Quarkus
 ## Resposta
-Ao atribuir o parâmetro newConfig à this.config foi criado um novo objeto quando acessado
+Ao atribuir o parâmetro newConfig à this.config foi criado um novo objeto quando acessada
 a segunda classe.
 
 Por exemplo, foi aberta a classe ConfigResource pelo Swagger a alterado o formato do relatório
